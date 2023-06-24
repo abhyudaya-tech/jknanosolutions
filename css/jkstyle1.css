@@ -201,7 +201,7 @@ font-family: 'Montserrat', sans-serif;line-height:28px;color:#fff;margin-bottom:
  
  .slider-style-five .active .slider-btn{opacity:1;-webkit-transform:translateY(0);
  -moz-transform:translateY(0);-ms-transform:translateY(0);-o-transform:translateY(0);transform:translateY(0);
- transition-delay:2000ms;color:#fff;margin-left:-80px;font-size:18px;font-weight:700;text-transform:uppercase;}
+ transition-delay:2000ms;color:#fff;margin-left:-80px;font-size:18px;font-weight:700;}
  
  
  .based_prod_blk:before{
